@@ -1,7 +1,27 @@
-### Hi 👋
+```bash
 
-My name is Sara, I am a graduate student with a MSc in Cognitive Neuroscience 🧠 and have recently completed a MSc in Data Science 🤖.
+    __  __          __    __                        _ 
+   / / / /  ___    / /   / /  ____           _     | |
+  / /_/ /  / _ \  / /   / /  / __ \         (_)    / /
+ / __  /  /  __/ / /   / /  / /_/ /        _      / / 
+/_/ /_/   \___/ /_/   /_/   \____/        (_)   _/_/  
+                                               /_/    
+                                 
+```
 
-In the past I have worked at the [Center for Lifespan Psychology of the Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/research/research-centers/lifespan-psychology), where I analyzed brain imaging data and applied machine learning techniques (MVPA) to gain insights into neural processes. Shifting my focus to the intersection of data science and social science I have also worked at the [Center for Humans and Machines of the Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/chm), looking at how data can inform our understanding of social phenomena and machine behavior.
+My name is Sara, I am currently working as a Data Engineer at Statista 🛠️
 
-You can find some of my projects and contributions here on my Github profile. Feel free to contact me if you have any questions!
+### Previous work experience
+- Graduate Assistant @ Center for Humans and Machines (Max Planck Institute for Human Development)
+- Studentische Hilfskraft @ Plasticity Lab (Max Planck Institute for Human Development)
+- Student Assistant @ Computational Cognitive Neuroscience Lab (Freie Universität Berlin)
+
+### Education
+- MSc. Data Science (Freie Universität Berlin)
+- MSc. Social, Cognitive and Affective Neuroscience (Freie Universität Berlin)
+- BSc. Cognitive Psychology and Psychobiology (Università degli Studi di Padova)
+
+### Currently learning more about:
+- AWS
+- Creative Coding
+- ..and more!
